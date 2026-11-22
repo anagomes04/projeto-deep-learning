@@ -1,0 +1,57 @@
+{
+  "kind": "synthetic (3D Fisher-Kolmogorov, cube domain, Neumann BC)",
+  "space": "cube [-1, 1]^3, isotropic",
+  "grid_shape": [
+    32,
+    32,
+    32
+  ],
+  "scale_mm": 90.0,
+  "time_span_days": 70.0,
+  "inputs": [
+    "x",
+    "y",
+    "z",
+    "t"
+  ],
+  "classes": {
+    "0": "healthy",
+    "1": "edema",
+    "2": "core"
+  },
+  "intervals": {
+    "healthy": [
+      0.0,
+      0.25
+    ],
+    "edema": [
+      0.25,
+      0.75
+    ],
+    "core": [
+      0.75,
+      1.0
+    ]
+  },
+  "ground_truth": {
+    "diffusion_mm2_per_day": 0.1,
+    "proliferation_per_day": 0.05,
+    "diffusion_norm": 0.0008641975308641976,
+    "proliferation_norm": 3.5
+  },
+  "config": {
+    "diffusion_mm2_per_day": 0.1,
+    "proliferation_per_day": 0.05,
+    "scale_mm": 90.0,
+    "time_span_days": 70.0,
+    "grid_size": 32,
+    "n_timesteps": 100,
+    "seed_sigma_mm": 10.0,
+    "n_obs": 50000,
+    "n_collocation": 200000,
+    "n_boundary": 10000,
+    "seed": 0,
+    "core_lo": 0.75,
+    "edema_lo": 0.25
+  }
+}

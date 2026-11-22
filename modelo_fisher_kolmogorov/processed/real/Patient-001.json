@@ -1,0 +1,73 @@
+{
+  "patient": "Patient-001",
+  "weeks": [
+    "week-000-1",
+    "week-052"
+  ],
+  "t_of_week": {
+    "week-000-1": 0.0,
+    "week-052": 1.0
+  },
+  "time_span_weeks": 51.5,
+  "single_timepoint": false,
+  "space": "DeepBraTumIA atlas (MNI 1 mm)",
+  "grid_shape": [
+    182,
+    218,
+    182
+  ],
+  "affine": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      -91.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      -126.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      -72.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "center_mm": [
+    -2.0,
+    -23.5,
+    15.5
+  ],
+  "scale_mm": 81.5,
+  "seed_guess_norm": [
+    0.29060658581690274,
+    -0.5319341168929047,
+    0.2532000959093595
+  ],
+  "inputs": [
+    "x",
+    "y",
+    "z",
+    "t"
+  ],
+  "feature_channels": [
+    "t1",
+    "t2",
+    "ct1",
+    "flair"
+  ],
+  "counts": {
+    "obs_xyzt": 294004,
+    "col_xyzt": 100000,
+    "bnd_xyzt": 20000
+  }
+}
