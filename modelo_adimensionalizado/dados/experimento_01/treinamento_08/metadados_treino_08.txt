@@ -1,0 +1,180 @@
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 10.00%
+Tempo de Treinamento: 0h 0m 15seg
+Erro: 28.02%    Estimado: 0.0101480     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 20.00%
+Tempo de Treinamento: 0h 0m 20seg
+Erro: 19.02%    Estimado: 0.0094344     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 30.00%
+Tempo de Treinamento: 0h 0m 22seg
+Erro: 27.10%    Estimado: 0.0100749     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 40.00%
+Tempo de Treinamento: 0h 0m 22seg
+Erro: 26.64%    Estimado: 0.0100387     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 50.00%
+Tempo de Treinamento: 0h 0m 24seg
+Erro: 36.70%    Estimado: 0.0108359     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 60.00%
+Tempo de Treinamento: 0h 0m 26seg
+Erro: 51.28%    Estimado: 0.0119915     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 70.00%
+Tempo de Treinamento: 0h 0m 29seg
+Erro: 12.64%    Estimado: 0.0069251     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 80.00%
+Tempo de Treinamento: 0h 0m 33seg
+Erro: 0.52%    Estimado: 0.0079677     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 90.00%
+Tempo de Treinamento: 0h 0m 36seg
+Erro: 48.22%    Estimado: 0.0117495     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 1000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 0m 39seg
+Erro: 27.60%    Estimado: 0.0057391     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 10.00%
+Tempo de Treinamento: 0h 1m 24seg
+Erro: 4.83%    Estimado: 0.0075443     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 20.00%
+Tempo de Treinamento: 0h 1m 33seg
+Erro: 7.00%    Estimado: 0.0073716     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 30.00%
+Tempo de Treinamento: 0h 1m 38seg
+Erro: 7.50%    Estimado: 0.0073322     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 40.00%
+Tempo de Treinamento: 0h 1m 54seg
+Erro: 11.80%    Estimado: 0.0069911     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 50.00%
+Tempo de Treinamento: 0h 2m 3seg
+Erro: 13.17%    Estimado: 0.0068829     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 60.00%
+Tempo de Treinamento: 0h 2m 14seg
+Erro: 7.78%    Estimado: 0.0073101     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 70.00%
+Tempo de Treinamento: 0h 2m 28seg
+Erro: 3.11%    Estimado: 0.0076805     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 80.00%
+Tempo de Treinamento: 0h 2m 44seg
+Erro: 9.32%    Estimado: 0.0071879     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 90.00%
+Tempo de Treinamento: 0h 3m 3seg
+Erro: 9.94%    Estimado: 0.0071386     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 5000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 3m 19seg
+Erro: 6.88%    Estimado: 0.0073813     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 10.00%
+Tempo de Treinamento: 0h 2m 46seg
+Erro: 2.65%    Estimado: 0.0077164     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 20.00%
+Tempo de Treinamento: 0h 3m 9seg
+Erro: 1.15%    Estimado: 0.0078358     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 30.00%
+Tempo de Treinamento: 0h 3m 22seg
+Erro: 2.66%    Estimado: 0.0077162     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 40.00%
+Tempo de Treinamento: 0h 3m 48seg
+Erro: 2.85%    Estimado: 0.0077009     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 50.00%
+Tempo de Treinamento: 0h 4m 6seg
+Erro: 4.14%    Estimado: 0.0075983     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 60.00%
+Tempo de Treinamento: 0h 4m 31seg
+Erro: 3.74%    Estimado: 0.0076301     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 70.00%
+Tempo de Treinamento: 0h 5m 18seg
+Erro: 0.81%    Estimado: 0.0079914     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 80.00%
+Tempo de Treinamento: 0h 5m 47seg
+Erro: 0.51%    Estimado: 0.0078864     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 90.00%
+Tempo de Treinamento: 0h 6m 22seg
+Erro: 0.93%    Estimado: 0.0078534     Referencia: 0.0079268
+--------------------------------------------------
+Quantidade Pontos de Colocacao: 1000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 6m 38seg
+Erro: 2.23%    Estimado: 0.0081034     Referencia: 0.0079268
+--------------------------------------------------

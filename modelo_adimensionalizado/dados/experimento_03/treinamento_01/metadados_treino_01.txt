@@ -1,0 +1,42 @@
+Nível de ruído: 0.0
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 10m 1seg
+Erro: 2.53%    Estimado: 0.0077259     Referencia: 0.0079268
+--------------------------------------------------
+Nível de ruído: 0.001
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 9m 57seg
+Erro: 2.39%    Estimado: 0.0077375     Referencia: 0.0079268
+--------------------------------------------------
+Nível de ruído: 0.005
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 9m 50seg
+Erro: 2.94%    Estimado: 0.0076935     Referencia: 0.0079268
+--------------------------------------------------
+Nível de ruído: 0.01
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 9m 50seg
+Erro: 3.05%    Estimado: 0.0076848     Referencia: 0.0079268
+--------------------------------------------------
+Nível de ruído: 0.05
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 9m 50seg
+Erro: 3.68%    Estimado: 0.0076355     Referencia: 0.0079268
+--------------------------------------------------
+Nível de ruído: 0.1
+Quantidade Pontos de Colocacao: 10000
+Quantidade Epocas: 10000
+Proporcao dos Dados Experimentais: 100.00%
+Tempo de Treinamento: 0h 9m 50seg
+Erro: 2.77%    Estimado: 0.0077075     Referencia: 0.0079268
+--------------------------------------------------
