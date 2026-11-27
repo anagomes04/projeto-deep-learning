@@ -1,4 +1,4 @@
-## Processo de avaliação do projeto
+## Processo de execução do projeto
 
 Esse projeto é configurado em quatro diretórios:
 - **modelo_reativo_difusivo**: diretório criado para implementação considerando modelo reativo difusivo clássico.
